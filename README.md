@@ -8,6 +8,6 @@ We're going to use a lexicon based approach and train a classifier to classify t
 
        Positive, Negative, Neutral and irrelevant.
 
-3. Statistics of the sentiment analysis can help us determine the success or failure of a product launch.
+3. Statistics of the sentiment analysis can help us determine the success of a product launch.
 
 4. Create some visualisation for the keyword entered - In this case, 'Samsung Galaxy S9' 
